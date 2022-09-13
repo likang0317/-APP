@@ -1,4 +1,4 @@
-# LIFF Starter
+npm ci# LIFF Starter
 
 LIFF Starter is a good starter template can help you understand how to integrate LIFF into your own development environment.
 
